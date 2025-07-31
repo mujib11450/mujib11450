@@ -1,5 +1,5 @@
 <h1 align="center">Hellow 👋, I'm Md. Mujibur Rahman</h1>
-<h3 align="center">A passionate frontend developer & designer from Bangladesh</h3>
+<h3 align="center">"Web Design & Development Specialist | Turning Ideas into Profit-Driving Websites | SEO-Optimized & Mobile-First Designs | Sharing Insights to Elevate Your Online Presence"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujib11450&label=Profile%20views&color=0e75b6&style=flat" alt="mujib11450" /> </p>
 
